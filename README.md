@@ -34,4 +34,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Criado projeto vue: `$ vue create nome_do_projeto`
 - Instalada biblioteca de componentes vuetify: `$ vue add vuetify`
 - Instalado electron builder: `$ vue add electron-builder`
-- Rodando electron builder: `$ npm run electron:build`
+- Rodando o electron builder: `$ npm run electron:build`
+- Rodando o electron server: `$ npm run electron:serve`
