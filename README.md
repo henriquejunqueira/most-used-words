@@ -28,8 +28,10 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Comandos utilizados:
+### Comandos utilizados
 
 - Instalado vue de forma global: `$ npm i -g @vue/cli`
-- Iniciado projeto vue: `$ vue create nome_do_projeto`
-- Instalada biblioteca de componentes do vue: `$ vue add vuetify`
+- Criado projeto vue: `$ vue create nome_do_projeto`
+- Instalada biblioteca de componentes vuetify: `$ vue add vuetify`
+- Instalado electron builder: `$ vue add electron-builder`
+- Rodando electron builder: `$ npm run electron:build`
